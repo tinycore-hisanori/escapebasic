@@ -1,4 +1,12 @@
- 
+# EscapeGame Sample No.001 
+
+## Step 1
+
+Instructions for step 1 here...
+
+## Step 2
+
+Instructions for step 2 here...
 
 
 > Open this page at [https://tinycore-hisanori.github.io/escapebasic/](https://tinycore-hisanori.github.io/escapebasic/)
