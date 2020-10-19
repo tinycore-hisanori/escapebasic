@@ -18,6 +18,7 @@ forever(function() {
     basic.pause(1000)
 })
 
+
 ## Step 4 - Show the temperature
 ddddd
 
