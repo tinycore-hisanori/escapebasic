@@ -2,12 +2,24 @@
 
 ## Step 1
 
-Instructions for step 1 here...
+まずは簡単なマップを用意します。
 
 ## Step 2
 
 Instructions for step 2 here...
 
+## Step 3 - Show the temperature
+
+Get a ``||input:temperature||`` block and place it in the value slot of ``||basic:show number||``.
+
+```blocks
+forever(function() {
+    basic.showNumber(input.temperature())
+    basic.pause(1000)
+})
+
+## Step 4 - Show the temperature
+ddddd
 
 > Open this page at [https://tinycore-hisanori.github.io/escapebasic/](https://tinycore-hisanori.github.io/escapebasic/)
 
